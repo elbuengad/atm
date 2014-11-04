@@ -1,2 +1,7 @@
 vdl_iphone-e08334cee36eecc3634c96da79c22a92d0f07ebd
 vdl_ipad-6e099033f7664cb6b62e8973a876cb0bab1c81c6
+if( Build.FINGERPRINT.contains("generic")){
+//es un emulador
+}else{
+//es un dispositivo
+}
