@@ -3,3 +3,4 @@ if( Build.FINGERPRINT.contains("generic")){
 }else{
 //es un dispositivo
 }
+https://public.tableau.com/profile/publish/Stats206_0331-0525/Dashboard1#!/publish-confirm
